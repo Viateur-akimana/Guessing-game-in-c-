@@ -27,7 +27,6 @@ int main() {
                     found = true;
                 }
             }
-
             if (found) {
                 cout << "Nicely guessed." << endl;
             } else {
